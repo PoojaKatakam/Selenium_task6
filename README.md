@@ -2,7 +2,8 @@
 
 **Objective:
 To learn the selenium and use it to create test cases to test the website thesparksfoundation.sg.
-Author: Pooja Katakam
+
+**Author: Pooja Katakam**
 
 **Test Cases:
 
